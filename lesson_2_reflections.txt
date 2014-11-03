@@ -1,0 +1,4 @@
+lesson_2_reflections.txt
+, and add the following question and your thoughts on it:
+
+What happens when you initialize a repository? Why do you need to do it?
